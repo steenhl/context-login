@@ -1,4 +1,4 @@
-# Opgaver: Løft state i React
+# Opgaver: Lifting state React
 
 ## Formål
 
